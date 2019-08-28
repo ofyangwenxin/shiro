@@ -1,4 +1,4 @@
-package chapter3;
+package common;
 
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;

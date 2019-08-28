@@ -1,5 +1,6 @@
 package chapter3;
 
+import common.BaseTest;
 import org.junit.Assert;
 import org.junit.Test;
 
